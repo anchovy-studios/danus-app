@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "191038908649",
+    "firebase_url": "https://danus-app.firebaseio.com",
+    "project_id": "danus-app",
+    "storage_bucket": "danus-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191038908649:android:5840555444de94fd",
+        "android_client_info": {
+          "package_name": "darknight98.com.danusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191038908649-4sloj2b9h5lr6p417gojneq2g2fqap9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "darknight98.com.danusapp",
+            "certificate_hash": "4B6DCC89BE6CA35601F6992D39F4CAF0EC0D1B6D"
+          }
+        },
+        {
+          "client_id": "191038908649-2h24ii80gvteqnrbi6tcg41edhcg52ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzIQl7YYIsSobYILpaALrdDtGEaRl33GQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191038908649-2h24ii80gvteqnrbi6tcg41edhcg52ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
