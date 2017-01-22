@@ -1,4 +1,4 @@
-package darknight98.com.danusapp;
+package com.anchovy.danusapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

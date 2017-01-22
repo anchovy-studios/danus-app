@@ -1,4 +1,4 @@
-package darknight98.com.danusapp;
+package com.anchovy.danusapp;
 
 import org.junit.Test;
 
